@@ -7,7 +7,7 @@
 ### Dept. of Computer Science and Engineering
 #### Network Security
 
-##### Calculation Code - C++
+##### Implementation Code - C++
 ```cpp
 class BloomFilter{ // Bloom Filter Class
 private: // Private Access Modifier
